@@ -1,0 +1,1 @@
+# funcion_cuadratica_ts
